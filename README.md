@@ -21,7 +21,7 @@ Bu proje, restoranları listeleyen ve detaylarını görüntülemenize olanak ta
      - Restorana ait fotoğraflar
 
 4. **Veri Kaynağı:**
-   - Restoran bilgileri, **Yelp API**'den (`https://api.yelp.com/v3/businesses`) çekilmektedir.
+   - Restoran bilgileri, **Yelp API**'den çekilmektedir.
 
 ---
 
