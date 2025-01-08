@@ -22,7 +22,7 @@ export default()=>{
         
     }
     useEffect(()=>{
-        searchApi("Toast")
+        searchApi("Döner")
     },[])
     
     return [searchApi,results,errorMessage]
